@@ -1,7 +1,5 @@
 # autoDocstring taper 3 fois " pour avoir l'autoDoc
 
-import typing as t 
-from typing import List, Dict, Union
 
 
 def square(x):
